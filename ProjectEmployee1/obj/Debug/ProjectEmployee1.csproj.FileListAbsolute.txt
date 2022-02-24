@@ -1,0 +1,8 @@
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\bin\Debug\ProjectEmployee1.exe.config
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\bin\Debug\ProjectEmployee1.exe
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\bin\Debug\ProjectEmployee1.pdb
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\obj\Debug\ProjectEmployee1.csproj.AssemblyReference.cache
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\obj\Debug\ProjectEmployee1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\obj\Debug\ProjectEmployee1.csproj.CoreCompileInputs.cache
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\obj\Debug\ProjectEmployee1.exe
+C:\Users\gerson.santiago\source\repos\ProjectEmployee1\ProjectEmployee1\obj\Debug\ProjectEmployee1.pdb
